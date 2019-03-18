@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="2439ebce-451e-4495-a404-8f94da9aa450" name="Administrator@HJYANG 2018-09-06 23:57:24" runUser="HJYANG\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="本地" id="2528fc98-d90d-4c8b-aea5-8dd477e84bae">
+    <Description>这些设置为本地测试运行的默认测试设置。</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_HJYANG 2018-09-06 23_57_24">
+      <DeploymentItem filename="E:\AnyShare Cloud\杨慧炯\C#2018秋\AssignmentTwo\AssignmentTwo\bin\Debug\AssignmentTwo.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2018-09-06T23:57:24.5544818+08:00" queuing="2018-09-06T23:57:25.0781696+08:00" start="2018-09-06T23:57:25.1021550+08:00" finish="2018-09-06T23:57:25.6308529+08:00" />
+  <ResultSummary outcome="Completed">
+    <Counters total="8" executed="8" passed="8" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="concatArrayUnitTest" storage="e:\anyshare cloud\杨慧炯\c#2018秋\assignmenttwo\testassigntmenttwo\bin\debug\testassigntmenttwo.dll" id="c3ab52fe-7d09-263f-1652-d6db76b5468d">
+      <Execution id="2831330b-d6b0-4a7c-9aec-adf8d7b864cf" />
+      <TestMethod codeBase="E:/AnyShare Cloud/杨慧炯/C#2018秋/AssignmentTwo/TestAssigntmentTwo/bin/Debug/TestAssigntmentTwo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestAssigntmentTwo.TestAssignmentTwo, TestAssigntmentTwo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="concatArrayUnitTest" />
+    </UnitTest>
+    <UnitTest name="bigDiffUnitTest" storage="e:\anyshare cloud\杨慧炯\c#2018秋\assignmenttwo\testassigntmenttwo\bin\debug\testassigntmenttwo.dll" id="133f1754-cead-6f3e-0ec8-a62fbf84ab88">
+      <Execution id="2c0b8d45-05eb-45e3-8a6c-fcbc0ea327f6" />
+      <TestMethod codeBase="E:/AnyShare Cloud/杨慧炯/C#2018秋/AssignmentTwo/TestAssigntmentTwo/bin/Debug/TestAssigntmentTwo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestAssigntmentTwo.TestAssignmentTwo, TestAssigntmentTwo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="bigDiffUnitTest" />
+    </UnitTest>
+    <UnitTest name="minUnitTest" storage="e:\anyshare cloud\杨慧炯\c#2018秋\assignmenttwo\testassigntmenttwo\bin\debug\testassigntmenttwo.dll" id="3a28acc5-0811-60d1-0142-344efeca9257">
+      <Execution id="68266ce6-c327-465a-9efb-5387dac9fc81" />
+      <TestMethod codeBase="E:/AnyShare Cloud/杨慧炯/C#2018秋/AssignmentTwo/TestAssigntmentTwo/bin/Debug/TestAssigntmentTwo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestAssigntmentTwo.TestAssignmentTwo, TestAssigntmentTwo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="minUnitTest" />
+    </UnitTest>
+    <UnitTest name="isTriangularUnitTest" storage="e:\anyshare cloud\杨慧炯\c#2018秋\assignmenttwo\testassigntmenttwo\bin\debug\testassigntmenttwo.dll" id="18f28d63-dddf-ac67-77e0-81526b25650b">
+      <Execution id="6c10695a-99ed-4d17-8a9e-31c77e8b5f34" />
+      <TestMethod codeBase="E:/AnyShare Cloud/杨慧炯/C#2018秋/AssignmentTwo/TestAssigntmentTwo/bin/Debug/TestAssigntmentTwo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestAssigntmentTwo.TestAssignmentTwo, TestAssigntmentTwo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="isTriangularUnitTest" />
+    </UnitTest>
+    <UnitTest name="numberOfDivisorsUnitTest" storage="e:\anyshare cloud\杨慧炯\c#2018秋\assignmenttwo\testassigntmenttwo\bin\debug\testassigntmenttwo.dll" id="367ebf26-a966-0f57-34c8-dd178c31dc6c">
+      <Execution id="44ab6a90-b126-456f-a692-f80de70a3349" />
+      <TestMethod codeBase="E:/AnyShare Cloud/杨慧炯/C#2018秋/AssignmentTwo/TestAssigntmentTwo/bin/Debug/TestAssigntmentTwo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestAssigntmentTwo.TestAssignmentTwo, TestAssigntmentTwo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="numberOfDivisorsUnitTest" />
+    </UnitTest>
+    <UnitTest name="mostCommonItemUnitTest" storage="e:\anyshare cloud\杨慧炯\c#2018秋\assignmenttwo\testassigntmenttwo\bin\debug\testassigntmenttwo.dll" id="32390355-2471-838d-41b3-60f0b7013a86">
+      <Execution id="5ab02b4a-aaac-41fe-90ec-1ae1309311bd" />
+      <TestMethod codeBase="E:/AnyShare Cloud/杨慧炯/C#2018秋/AssignmentTwo/TestAssigntmentTwo/bin/Debug/TestAssigntmentTwo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestAssigntmentTwo.TestAssignmentTwo, TestAssigntmentTwo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="mostCommonItemUnitTest" />
+    </UnitTest>
+    <UnitTest name="maxUnitTest" storage="e:\anyshare cloud\杨慧炯\c#2018秋\assignmenttwo\testassigntmenttwo\bin\debug\testassigntmenttwo.dll" id="b49c96b9-d0f6-76a9-bfd0-ff6706da91df">
+      <Execution id="cc07477a-5935-42eb-b08b-98026f01db04" />
+      <TestMethod codeBase="E:/AnyShare Cloud/杨慧炯/C#2018秋/AssignmentTwo/TestAssigntmentTwo/bin/Debug/TestAssigntmentTwo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestAssigntmentTwo.TestAssignmentTwo, TestAssigntmentTwo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="maxUnitTest" />
+    </UnitTest>
+    <UnitTest name="formatArrayUnitTest" storage="e:\anyshare cloud\杨慧炯\c#2018秋\assignmenttwo\testassigntmenttwo\bin\debug\testassigntmenttwo.dll" id="0d774269-4a69-d206-119a-6e63576ba2dc">
+      <Execution id="028dc14a-e049-4254-be55-246c33730ce3" />
+      <TestMethod codeBase="E:/AnyShare Cloud/杨慧炯/C#2018秋/AssignmentTwo/TestAssigntmentTwo/bin/Debug/TestAssigntmentTwo.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="TestAssigntmentTwo.TestAssignmentTwo, TestAssigntmentTwo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="formatArrayUnitTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="列表中未列出的结果" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="所有已加载的结果" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="b49c96b9-d0f6-76a9-bfd0-ff6706da91df" executionId="cc07477a-5935-42eb-b08b-98026f01db04" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="3a28acc5-0811-60d1-0142-344efeca9257" executionId="68266ce6-c327-465a-9efb-5387dac9fc81" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="32390355-2471-838d-41b3-60f0b7013a86" executionId="5ab02b4a-aaac-41fe-90ec-1ae1309311bd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="367ebf26-a966-0f57-34c8-dd178c31dc6c" executionId="44ab6a90-b126-456f-a692-f80de70a3349" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="18f28d63-dddf-ac67-77e0-81526b25650b" executionId="6c10695a-99ed-4d17-8a9e-31c77e8b5f34" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0d774269-4a69-d206-119a-6e63576ba2dc" executionId="028dc14a-e049-4254-be55-246c33730ce3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="c3ab52fe-7d09-263f-1652-d6db76b5468d" executionId="2831330b-d6b0-4a7c-9aec-adf8d7b864cf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="133f1754-cead-6f3e-0ec8-a62fbf84ab88" executionId="2c0b8d45-05eb-45e3-8a6c-fcbc0ea327f6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="cc07477a-5935-42eb-b08b-98026f01db04" testId="b49c96b9-d0f6-76a9-bfd0-ff6706da91df" testName="maxUnitTest" computerName="HJYANG" duration="00:00:00.0118836" startTime="2018-09-06T23:57:25.1101510+08:00" endTime="2018-09-06T23:57:25.5549086+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="cc07477a-5935-42eb-b08b-98026f01db04">
+      <Output>
+        <StdOut>Success!!</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="68266ce6-c327-465a-9efb-5387dac9fc81" testId="3a28acc5-0811-60d1-0142-344efeca9257" testName="minUnitTest" computerName="HJYANG" duration="00:00:00.0002622" startTime="2018-09-06T23:57:25.5568969+08:00" endTime="2018-09-06T23:57:25.5588981+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="68266ce6-c327-465a-9efb-5387dac9fc81">
+      <Output>
+        <StdOut>Success!!</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="5ab02b4a-aaac-41fe-90ec-1ae1309311bd" testId="32390355-2471-838d-41b3-60f0b7013a86" testName="mostCommonItemUnitTest" computerName="HJYANG" duration="00:00:00.0003492" startTime="2018-09-06T23:57:25.5598936+08:00" endTime="2018-09-06T23:57:25.5619050+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5ab02b4a-aaac-41fe-90ec-1ae1309311bd">
+      <Output>
+        <StdOut>Success!!</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="44ab6a90-b126-456f-a692-f80de70a3349" testId="367ebf26-a966-0f57-34c8-dd178c31dc6c" testName="numberOfDivisorsUnitTest" computerName="HJYANG" duration="00:00:00.0243979" startTime="2018-09-06T23:57:25.5628921+08:00" endTime="2018-09-06T23:57:25.5878959+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="44ab6a90-b126-456f-a692-f80de70a3349">
+      <Output>
+        <StdOut>Success!!</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="6c10695a-99ed-4d17-8a9e-31c77e8b5f34" testId="18f28d63-dddf-ac67-77e0-81526b25650b" testName="isTriangularUnitTest" computerName="HJYANG" duration="00:00:00.0007982" startTime="2018-09-06T23:57:25.5888766+08:00" endTime="2018-09-06T23:57:25.5918882+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6c10695a-99ed-4d17-8a9e-31c77e8b5f34">
+      <Output>
+        <StdOut>Success!!</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="028dc14a-e049-4254-be55-246c33730ce3" testId="0d774269-4a69-d206-119a-6e63576ba2dc" testName="formatArrayUnitTest" computerName="HJYANG" duration="00:00:00.0003384" startTime="2018-09-06T23:57:25.5928755+08:00" endTime="2018-09-06T23:57:25.5939153+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="028dc14a-e049-4254-be55-246c33730ce3">
+      <Output>
+        <StdOut>Success!!</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="2831330b-d6b0-4a7c-9aec-adf8d7b864cf" testId="c3ab52fe-7d09-263f-1652-d6db76b5468d" testName="concatArrayUnitTest" computerName="HJYANG" duration="00:00:00.0004593" startTime="2018-09-06T23:57:25.5948735+08:00" endTime="2018-09-06T23:57:25.5968898+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2831330b-d6b0-4a7c-9aec-adf8d7b864cf">
+      <Output>
+        <StdOut>Success!!</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="2c0b8d45-05eb-45e3-8a6c-fcbc0ea327f6" testId="133f1754-cead-6f3e-0ec8-a62fbf84ab88" testName="bigDiffUnitTest" computerName="HJYANG" duration="00:00:00.0003521" startTime="2018-09-06T23:57:25.5978719+08:00" endTime="2018-09-06T23:57:25.5998716+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2c0b8d45-05eb-45e3-8a6c-fcbc0ea327f6">
+      <Output>
+        <StdOut>Success!!</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

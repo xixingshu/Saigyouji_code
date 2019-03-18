@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="c95e0011-34ef-4f4f-9628-3784169bb110" name="Administrator@HJYANG 2018-09-10 09:50:42" runUser="HJYANG\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="本地" id="b89f095e-30f2-4ce2-bec5-7c359041affa">
+    <Description>这些设置为本地测试运行的默认测试设置。</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_HJYANG 2018-09-10 09_50_42">
+      <DeploymentItem filename="E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\AssignmentThree\bin\Debug\AssignmentThree.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2018-09-10T09:50:42.9559553+08:00" queuing="2018-09-10T09:50:43.8804253+08:00" start="2018-09-10T09:50:43.9174040+08:00" finish="2018-09-10T09:50:44.5310560+08:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestSetSuit_1" storage="e:\anyshare cloud\杨慧炯\c#2018秋\作业\assignmentthree\cardtest\bin\debug\cardtest.dll" id="a57f7b29-3a8b-2333-2152-264762f61f9f">
+      <Execution id="c25f912a-6f56-469f-b0e4-df19b798f4be" />
+      <TestMethod codeBase="E:/AnyShare Cloud/杨慧炯/C#2018秋/作业/AssignmentThree/CardTest/bin/Debug/CardTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CardTest.CardTest, CardTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestSetSuit_1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="列表中未列出的结果" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="所有已加载的结果" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="a57f7b29-3a8b-2333-2152-264762f61f9f" executionId="c25f912a-6f56-469f-b0e4-df19b798f4be" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="c25f912a-6f56-469f-b0e4-df19b798f4be" testId="a57f7b29-3a8b-2333-2152-264762f61f9f" testName="TestSetSuit_1" computerName="HJYANG" duration="00:00:00.1293469" startTime="2018-09-10T09:50:43.9323956+08:00" endTime="2018-09-10T09:50:44.5040693+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c25f912a-6f56-469f-b0e4-df19b798f4be">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual 失败。应为: &lt;fork&gt;，实际为: &lt;bingo&gt;。</Message>
+          <StackTrace>   在 CardTest.CardTest.TestSetSuit_1() 位置 E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\CardTest\CardTest.cs:行号 70
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

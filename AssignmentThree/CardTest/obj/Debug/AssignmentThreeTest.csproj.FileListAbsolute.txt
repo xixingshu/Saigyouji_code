@@ -1,0 +1,17 @@
+E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\CardTest\bin\Debug\CardTest.dll
+E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\CardTest\bin\Debug\CardTest.pdb
+E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\CardTest\bin\Debug\AssignmentThree.exe
+E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\CardTest\bin\Debug\AssignmentThree.pdb
+E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\CardTest\obj\Debug\AssignmentThreeTest.csprojResolveAssemblyReference.cache
+E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\CardTest\obj\Debug\CardTest.dll
+E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\CardTest\obj\Debug\CardTest.pdb
+D:\Downloads\AssignmentThree\CardTest\bin\Debug\CardTest.dll
+D:\Downloads\AssignmentThree\CardTest\bin\Debug\CardTest.pdb
+D:\Downloads\AssignmentThree\CardTest\bin\Debug\AssignmentThree.exe
+D:\Downloads\AssignmentThree\CardTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Downloads\AssignmentThree\CardTest\bin\Debug\AssignmentThree.pdb
+D:\Downloads\AssignmentThree\CardTest\obj\Debug\AssignmentThreeTest.csprojAssemblyReference.cache
+D:\Downloads\AssignmentThree\CardTest\obj\Debug\AssignmentThreeTest.csproj.CoreCompileInputs.cache
+D:\Downloads\AssignmentThree\CardTest\obj\Debug\AssignmentThreeTest.csproj.CopyComplete
+D:\Downloads\AssignmentThree\CardTest\obj\Debug\CardTest.dll
+D:\Downloads\AssignmentThree\CardTest\obj\Debug\CardTest.pdb

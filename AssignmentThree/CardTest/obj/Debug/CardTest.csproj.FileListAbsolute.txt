@@ -1,0 +1,7 @@
+E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\CardTest\obj\Debug\CardTest.csprojResolveAssemblyReference.cache
+E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\CardTest\bin\Debug\CardTest.dll
+E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\CardTest\bin\Debug\CardTest.pdb
+E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\CardTest\bin\Debug\AssignmentThree.exe
+E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\CardTest\bin\Debug\AssignmentThree.pdb
+E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\CardTest\obj\Debug\CardTest.dll
+E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\CardTest\obj\Debug\CardTest.pdb

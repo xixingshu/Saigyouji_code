@@ -1,0 +1,17 @@
+E:\AnyShare Cloud\杨慧炯\C#2018秋\AssignmentTwo\TestAssigntmentTwo\bin\Debug\TestAssigntmentTwo.dll
+E:\AnyShare Cloud\杨慧炯\C#2018秋\AssignmentTwo\TestAssigntmentTwo\bin\Debug\TestAssigntmentTwo.pdb
+E:\AnyShare Cloud\杨慧炯\C#2018秋\AssignmentTwo\TestAssigntmentTwo\bin\Debug\AssignmentTwo.exe
+E:\AnyShare Cloud\杨慧炯\C#2018秋\AssignmentTwo\TestAssigntmentTwo\bin\Debug\AssignmentTwo.pdb
+E:\AnyShare Cloud\杨慧炯\C#2018秋\AssignmentTwo\TestAssigntmentTwo\obj\Debug\TestAssigntmentTwo.csprojResolveAssemblyReference.cache
+E:\AnyShare Cloud\杨慧炯\C#2018秋\AssignmentTwo\TestAssigntmentTwo\obj\Debug\TestAssigntmentTwo.dll
+E:\AnyShare Cloud\杨慧炯\C#2018秋\AssignmentTwo\TestAssigntmentTwo\obj\Debug\TestAssigntmentTwo.pdb
+D:\Downloads\AssignmentTwo\TestAssigntmentTwo\bin\Debug\TestAssigntmentTwo.dll
+D:\Downloads\AssignmentTwo\TestAssigntmentTwo\bin\Debug\TestAssigntmentTwo.pdb
+D:\Downloads\AssignmentTwo\TestAssigntmentTwo\bin\Debug\AssignmentTwo.exe
+D:\Downloads\AssignmentTwo\TestAssigntmentTwo\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Downloads\AssignmentTwo\TestAssigntmentTwo\bin\Debug\AssignmentTwo.pdb
+D:\Downloads\AssignmentTwo\TestAssigntmentTwo\obj\Debug\TestAssigntmentTwo.csprojAssemblyReference.cache
+D:\Downloads\AssignmentTwo\TestAssigntmentTwo\obj\Debug\TestAssigntmentTwo.csproj.CoreCompileInputs.cache
+D:\Downloads\AssignmentTwo\TestAssigntmentTwo\obj\Debug\TestAssigntmentTwo.csproj.CopyComplete
+D:\Downloads\AssignmentTwo\TestAssigntmentTwo\obj\Debug\TestAssigntmentTwo.dll
+D:\Downloads\AssignmentTwo\TestAssigntmentTwo\obj\Debug\TestAssigntmentTwo.pdb

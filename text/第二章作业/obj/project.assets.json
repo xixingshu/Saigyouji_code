@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documents\\Visual Studio 2017\\C#\\test\\第二章作业\\第二章作业.csproj",
+      "projectUniqueName": "D:\\Documents\\Visual Studio 2017\\github\\Saigyouji_code\\text\\第二章作业\\第二章作业.csproj",
       "projectName": "第二章作业",
-      "projectPath": "D:\\Documents\\Visual Studio 2017\\C#\\test\\第二章作业\\第二章作业.csproj",
+      "projectPath": "D:\\Documents\\Visual Studio 2017\\github\\Saigyouji_code\\text\\第二章作业\\第二章作业.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\Documents\\Visual Studio 2017\\C#\\test\\第二章作业\\obj\\",
+      "outputPath": "D:\\Documents\\Visual Studio 2017\\github\\Saigyouji_code\\text\\第二章作业\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

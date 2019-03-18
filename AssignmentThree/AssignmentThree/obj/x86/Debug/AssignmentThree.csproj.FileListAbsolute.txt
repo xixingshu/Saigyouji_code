@@ -1,0 +1,9 @@
+E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\AssignmentThree\bin\Debug\AssignmentThree.exe
+E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\AssignmentThree\bin\Debug\AssignmentThree.pdb
+E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\AssignmentThree\obj\x86\Debug\AssignmentThree.exe
+E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\AssignmentThree\obj\x86\Debug\AssignmentThree.pdb
+D:\Downloads\AssignmentThree\AssignmentThree\bin\Debug\AssignmentThree.exe
+D:\Downloads\AssignmentThree\AssignmentThree\bin\Debug\AssignmentThree.pdb
+D:\Downloads\AssignmentThree\AssignmentThree\obj\x86\Debug\AssignmentThree.csproj.CoreCompileInputs.cache
+D:\Downloads\AssignmentThree\AssignmentThree\obj\x86\Debug\AssignmentThree.exe
+D:\Downloads\AssignmentThree\AssignmentThree\obj\x86\Debug\AssignmentThree.pdb

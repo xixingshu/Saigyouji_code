@@ -1,0 +1,11 @@
+E:\AnyShare Cloud\杨慧炯\C#2018秋\AssignmentTwo\AssignmentTwo\bin\Debug\AssignmentTwo.exe
+E:\AnyShare Cloud\杨慧炯\C#2018秋\AssignmentTwo\AssignmentTwo\bin\Debug\AssignmentTwo.pdb
+E:\AnyShare Cloud\杨慧炯\C#2018秋\AssignmentTwo\AssignmentTwo\obj\x86\Debug\AssignmentTwo.exe
+E:\AnyShare Cloud\杨慧炯\C#2018秋\AssignmentTwo\AssignmentTwo\obj\x86\Debug\AssignmentTwo.pdb
+E:\AnyShare Cloud\杨慧炯\C#2018秋\AssignmentTwo\AssignmentTwo\obj\x86\Debug\AssignmentTwo.csprojResolveAssemblyReference.cache
+D:\Downloads\AssignmentTwo\AssignmentTwo\bin\Debug\AssignmentTwo.exe
+D:\Downloads\AssignmentTwo\AssignmentTwo\bin\Debug\AssignmentTwo.pdb
+D:\Downloads\AssignmentTwo\AssignmentTwo\obj\x86\Debug\AssignmentTwo.csproj.CoreCompileInputs.cache
+D:\Downloads\AssignmentTwo\AssignmentTwo\obj\x86\Debug\AssignmentTwo.exe
+D:\Downloads\AssignmentTwo\AssignmentTwo\obj\x86\Debug\AssignmentTwo.pdb
+D:\Downloads\AssignmentTwo\AssignmentTwo\obj\x86\Debug\AssignmentTwo.csprojAssemblyReference.cache

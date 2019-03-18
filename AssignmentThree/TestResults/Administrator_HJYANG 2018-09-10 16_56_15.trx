@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="61279902-d665-4bf1-85c3-331d9e7340c4" name="Administrator@HJYANG 2018-09-10 16:56:15" runUser="HJYANG\Administrator" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="本地" id="b89f095e-30f2-4ce2-bec5-7c359041affa">
+    <Description>这些设置为本地测试运行的默认测试设置。</Description>
+    <Deployment enabled="false" runDeploymentRoot="Administrator_HJYANG 2018-09-10 16_56_15">
+      <DeploymentItem filename="E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\AssignmentThree\bin\Debug\AssignmentThree.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2018-09-10T16:56:15.2352417+08:00" queuing="2018-09-10T16:56:17.0661782+08:00" start="2018-09-10T16:56:17.1331417+08:00" finish="2018-09-10T16:56:40.8895600+08:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="9" executed="9" error="0" failed="9" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestParameterisedConstrctor" storage="e:\anyshare cloud\杨慧炯\c#2018秋\作业\assignmentthree\cardtest\bin\debug\cardtest.dll" id="e73467a2-1e95-03f8-dbac-fac6bd24fd30">
+      <Execution id="99bf4363-494d-4879-9351-2282d059294b" />
+      <TestMethod codeBase="E:/AnyShare Cloud/杨慧炯/C#2018秋/作业/AssignmentThree/CardTest/bin/Debug/CardTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CardTest.CardTest, CardTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestParameterisedConstrctor" />
+    </UnitTest>
+    <UnitTest name="TestSetRank" storage="e:\anyshare cloud\杨慧炯\c#2018秋\作业\assignmentthree\cardtest\bin\debug\cardtest.dll" id="e0515326-104f-afac-04c6-0aee21cd86ed">
+      <Execution id="75b1d309-de8d-4129-adbf-bf77ea1ad72b" />
+      <TestMethod codeBase="E:/AnyShare Cloud/杨慧炯/C#2018秋/作业/AssignmentThree/CardTest/bin/Debug/CardTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CardTest.CardTest, CardTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestSetRank" />
+    </UnitTest>
+    <UnitTest name="TestSetSuit_2" storage="e:\anyshare cloud\杨慧炯\c#2018秋\作业\assignmentthree\cardtest\bin\debug\cardtest.dll" id="12da3167-664a-b6f2-c4eb-c766b1f3fc25">
+      <Execution id="ebb55fdb-a457-4bd0-8bf8-47cdabe968bd" />
+      <TestMethod codeBase="E:/AnyShare Cloud/杨慧炯/C#2018秋/作业/AssignmentThree/CardTest/bin/Debug/CardTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CardTest.CardTest, CardTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestSetSuit_2" />
+    </UnitTest>
+    <UnitTest name="TestSetSuit_1" storage="e:\anyshare cloud\杨慧炯\c#2018秋\作业\assignmentthree\cardtest\bin\debug\cardtest.dll" id="a57f7b29-3a8b-2333-2152-264762f61f9f">
+      <Execution id="6f97f2e2-d109-4b31-9477-59ad563e04a0" />
+      <TestMethod codeBase="E:/AnyShare Cloud/杨慧炯/C#2018秋/作业/AssignmentThree/CardTest/bin/Debug/CardTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CardTest.CardTest, CardTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestSetSuit_1" />
+    </UnitTest>
+    <UnitTest name="TestToString_1" storage="e:\anyshare cloud\杨慧炯\c#2018秋\作业\assignmentthree\cardtest\bin\debug\cardtest.dll" id="49fb669c-09c4-2c8b-6f5c-e49e6ad28eac">
+      <Execution id="224458d7-2741-410f-9e13-c104df862ac7" />
+      <TestMethod codeBase="E:/AnyShare Cloud/杨慧炯/C#2018秋/作业/AssignmentThree/CardTest/bin/Debug/CardTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CardTest.CardTest, CardTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestToString_1" />
+    </UnitTest>
+    <UnitTest name="TestGetSuitWeight" storage="e:\anyshare cloud\杨慧炯\c#2018秋\作业\assignmentthree\cardtest\bin\debug\cardtest.dll" id="18ae4096-5846-94b8-257e-24b37c0b59af">
+      <Execution id="5ca95e2b-26dc-4ba3-8526-f238653b2343" />
+      <TestMethod codeBase="E:/AnyShare Cloud/杨慧炯/C#2018秋/作业/AssignmentThree/CardTest/bin/Debug/CardTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CardTest.CardTest, CardTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestGetSuitWeight" />
+    </UnitTest>
+    <UnitTest name="TestCompareTo_2" storage="e:\anyshare cloud\杨慧炯\c#2018秋\作业\assignmentthree\cardtest\bin\debug\cardtest.dll" id="5a6c002a-2d75-4747-b0eb-d4e091515941">
+      <Execution id="4c9b1cf5-025c-441e-86f1-3d0fa757ff7d" />
+      <TestMethod codeBase="E:/AnyShare Cloud/杨慧炯/C#2018秋/作业/AssignmentThree/CardTest/bin/Debug/CardTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CardTest.CardTest, CardTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCompareTo_2" />
+    </UnitTest>
+    <UnitTest name="TestCompareTo_1" storage="e:\anyshare cloud\杨慧炯\c#2018秋\作业\assignmentthree\cardtest\bin\debug\cardtest.dll" id="915b8d27-88e5-8b41-443c-27608bf59b58">
+      <Execution id="5ccc2833-91bc-4f24-800c-ba9a4aa2b44f" />
+      <TestMethod codeBase="E:/AnyShare Cloud/杨慧炯/C#2018秋/作业/AssignmentThree/CardTest/bin/Debug/CardTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CardTest.CardTest, CardTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestCompareTo_1" />
+    </UnitTest>
+    <UnitTest name="TestDefaultConstrctor" storage="e:\anyshare cloud\杨慧炯\c#2018秋\作业\assignmentthree\cardtest\bin\debug\cardtest.dll" id="48f12a6d-f470-5ea1-8d1d-80c49651f5ea">
+      <Execution id="27b9e663-b4ab-4ba7-9d84-3678df795242" />
+      <TestMethod codeBase="E:/AnyShare Cloud/杨慧炯/C#2018秋/作业/AssignmentThree/CardTest/bin/Debug/CardTest.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="CardTest.CardTest, CardTest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestDefaultConstrctor" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="列表中未列出的结果" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="所有已加载的结果" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="a57f7b29-3a8b-2333-2152-264762f61f9f" executionId="6f97f2e2-d109-4b31-9477-59ad563e04a0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="12da3167-664a-b6f2-c4eb-c766b1f3fc25" executionId="ebb55fdb-a457-4bd0-8bf8-47cdabe968bd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e0515326-104f-afac-04c6-0aee21cd86ed" executionId="75b1d309-de8d-4129-adbf-bf77ea1ad72b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="48f12a6d-f470-5ea1-8d1d-80c49651f5ea" executionId="27b9e663-b4ab-4ba7-9d84-3678df795242" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e73467a2-1e95-03f8-dbac-fac6bd24fd30" executionId="99bf4363-494d-4879-9351-2282d059294b" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="915b8d27-88e5-8b41-443c-27608bf59b58" executionId="5ccc2833-91bc-4f24-800c-ba9a4aa2b44f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5a6c002a-2d75-4747-b0eb-d4e091515941" executionId="4c9b1cf5-025c-441e-86f1-3d0fa757ff7d" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="18ae4096-5846-94b8-257e-24b37c0b59af" executionId="5ca95e2b-26dc-4ba3-8526-f238653b2343" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="49fb669c-09c4-2c8b-6f5c-e49e6ad28eac" executionId="224458d7-2741-410f-9e13-c104df862ac7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="6f97f2e2-d109-4b31-9477-59ad563e04a0" testId="a57f7b29-3a8b-2333-2152-264762f61f9f" testName="TestSetSuit_1" computerName="HJYANG" duration="00:00:13.6972117" startTime="2018-09-10T16:56:17.2110972+08:00" endTime="2018-09-10T16:56:32.0526141+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6f97f2e2-d109-4b31-9477-59ad563e04a0">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual 失败。应为: &lt;fork&gt;，实际为: &lt;bingo&gt;。</Message>
+          <StackTrace>   在 CardTest.CardTest.TestSetSuit_1() 位置 E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\CardTest\CardTest.cs:行号 70
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="ebb55fdb-a457-4bd0-8bf8-47cdabe968bd" testId="12da3167-664a-b6f2-c4eb-c766b1f3fc25" testName="TestSetSuit_2" computerName="HJYANG" duration="00:00:01.1151602" startTime="2018-09-10T16:56:32.0596091+08:00" endTime="2018-09-10T16:56:33.1789666+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ebb55fdb-a457-4bd0-8bf8-47cdabe968bd">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual 失败。应为: &lt;fork&gt;，实际为: &lt;&gt;。</Message>
+          <StackTrace>   在 CardTest.CardTest.TestSetSuit_2() 位置 E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\CardTest\CardTest.cs:行号 92
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="75b1d309-de8d-4129-adbf-bf77ea1ad72b" testId="e0515326-104f-afac-04c6-0aee21cd86ed" testName="TestSetRank" computerName="HJYANG" duration="00:00:00.9936068" startTime="2018-09-10T16:56:33.1839653+08:00" endTime="2018-09-10T16:56:34.1803941+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="75b1d309-de8d-4129-adbf-bf77ea1ad72b">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual 失败。应为: &lt;5&gt;，实际为: &lt;-5&gt;。</Message>
+          <StackTrace>   在 CardTest.CardTest.TestSetRank() 位置 E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\CardTest\CardTest.cs:行号 117
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="27b9e663-b4ab-4ba7-9d84-3678df795242" testId="48f12a6d-f470-5ea1-8d1d-80c49651f5ea" testName="TestDefaultConstrctor" computerName="HJYANG" duration="00:00:00.7228616" startTime="2018-09-10T16:56:34.1853920+08:00" endTime="2018-09-10T16:56:34.9119759+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="27b9e663-b4ab-4ba7-9d84-3678df795242">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual 失败。应为: &lt;fork&gt;，实际为: &lt;(null)&gt;。</Message>
+          <StackTrace>   在 CardTest.CardTest.TestDefaultConstrctor() 位置 E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\CardTest\CardTest.cs:行号 141
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="99bf4363-494d-4879-9351-2282d059294b" testId="e73467a2-1e95-03f8-dbac-fac6bd24fd30" testName="TestParameterisedConstrctor" computerName="HJYANG" duration="00:00:00.7126777" startTime="2018-09-10T16:56:34.9159753+08:00" endTime="2018-09-10T16:56:35.6325658+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="99bf4363-494d-4879-9351-2282d059294b">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual 失败。应为: &lt;(null)&gt;，实际为: &lt;tree&gt;。</Message>
+          <StackTrace>   在 CardTest.CardTest.TestParameterisedConstrctor() 位置 E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\CardTest\CardTest.cs:行号 151
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="5ccc2833-91bc-4f24-800c-ba9a4aa2b44f" testId="915b8d27-88e5-8b41-443c-27608bf59b58" testName="TestCompareTo_1" computerName="HJYANG" duration="00:00:00.7550277" startTime="2018-09-10T16:56:35.6385613+08:00" endTime="2018-09-10T16:56:36.4001250+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5ccc2833-91bc-4f24-800c-ba9a4aa2b44f">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual 失败。应为: &lt;-1&gt;，实际为: &lt;0&gt;。</Message>
+          <StackTrace>   在 CardTest.CardTest.TestCompareTo_1() 位置 E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\CardTest\CardTest.cs:行号 195
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="4c9b1cf5-025c-441e-86f1-3d0fa757ff7d" testId="5a6c002a-2d75-4747-b0eb-d4e091515941" testName="TestCompareTo_2" computerName="HJYANG" duration="00:00:00.6644633" startTime="2018-09-10T16:56:36.4051249+08:00" endTime="2018-09-10T16:56:37.0737405+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4c9b1cf5-025c-441e-86f1-3d0fa757ff7d">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual 失败。应为: &lt;-1&gt;，实际为: &lt;0&gt;。</Message>
+          <StackTrace>   在 CardTest.CardTest.TestCompareTo_2() 位置 E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\CardTest\CardTest.cs:行号 233
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="5ca95e2b-26dc-4ba3-8526-f238653b2343" testId="18ae4096-5846-94b8-257e-24b37c0b59af" testName="TestGetSuitWeight" computerName="HJYANG" duration="00:00:00.5773658" startTime="2018-09-10T16:56:37.0777377+08:00" endTime="2018-09-10T16:56:37.6594057+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5ca95e2b-26dc-4ba3-8526-f238653b2343">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual 失败。应为: &lt;4&gt;，实际为: &lt;0&gt;。</Message>
+          <StackTrace>   在 CardTest.CardTest.TestGetSuitWeight() 位置 E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\CardTest\CardTest.cs:行号 265
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="224458d7-2741-410f-9e13-c104df862ac7" testId="49fb669c-09c4-2c8b-6f5c-e49e6ad28eac" testName="TestToString_1" computerName="HJYANG" duration="00:00:03.0848001" startTime="2018-09-10T16:56:37.6674009+08:00" endTime="2018-09-10T16:56:40.7606333+08:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="224458d7-2741-410f-9e13-c104df862ac7">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual 失败。应为: &lt;5 of lungs&gt;，实际为: &lt;&gt;。</Message>
+          <StackTrace>   在 CardTest.CardTest.TestToString_1() 位置 E:\AnyShare Cloud\杨慧炯\C#2018秋\作业\AssignmentThree\CardTest\CardTest.cs:行号 279
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
