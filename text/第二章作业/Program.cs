@@ -7,31 +7,31 @@ namespace 第二章作业
         static void Main(string[] args)
         {
             #region 作业一
-            //while (true)
-            //{
-            //    try
-            //    {
-            //        Console.WriteLine("请输入第一个参数：");
-            //        string o = Console.ReadLine();
-            //        Console.WriteLine("请输入运算符：");
-            //        string t = Console.ReadLine();
-            //        Console.WriteLine("请输入第二个参数：");
-            //        string tr = Console.ReadLine();
-            //        Cal.Frist_number = Cal.Change(o);
-            //        Cal.Opreator = t[0];
-            //        Cal.Second_number = Cal.Change(tr);
-            //        Console.WriteLine("结果为：{0}", Cal.Result());
-            //    }
-            //    catch
-            //    {
-            //        Console.WriteLine("异常中断");
-            //    }
-            //}
+            while (true)
+            {
+                
+                    Console.WriteLine("请输入第一个参数：");
+                    Cal.Frist_st = Console.ReadLine();
+                    Console.WriteLine("请输入运算符：");
+                    Cal.Opreator = Console.ReadLine()[0];
+                    Console.WriteLine("请输入第二个参数：");
+                    Cal.Second_str = Console.ReadLine();
+                try
+                {
+                    int.Parse(Cal.Frist_st);
+                    Console.WriteLine("结果为：{0}", Cal.Result());
+                }
+                catch
+                {
+                    Console.WriteLine("结果为：{0}", Cal.Re());
+                }
+               
+            }
 
             #endregion
             #region 作业二
-            Str2Num.St = Console.ReadLine();
-            Str2Num.Str2num();
+            //Str2Num.St = Console.ReadLine();
+            //Str2Num.Str2num();
             #endregion
             #region 作业三
             #endregion
@@ -45,19 +45,21 @@ namespace 第二章作业
     public class Cal
     {
         /// <summary>
-        /// 第一个参数
+        /// 第一个参数的输入与转换
         /// </summary>
-        static public double Frist_number { get;set; }
+        static public string Frist_st { get; set; }
+        static public double Frist_number => Change(Frist_st);
         /// <summary>
         /// 运算符
         /// </summary>
         static public char Opreator { get; set; }
         /// <summary>
-        /// 第二个参数
+        /// 第二个参数的输入与转换
         /// </summary>
-        static public double Second_number { get; set; }
+        static public string Second_str { get; set; }
+        static public double Second_number => Change(Second_str);
         /// <summary>
-        /// 运算结果
+        /// 运算结果 无结果返回0xffff
         /// </summary>
         /// <returns>本次运算的结果</returns>
         static public double Result()
@@ -69,7 +71,41 @@ namespace 第二章作业
                 case '-': result = Frist_number - Second_number; break;
                 case '*': result = Frist_number * Second_number; break;
                 case '/': if (Second_number == 0) { Console.WriteLine("除数无意义"); result = 0.0; } else { result = Frist_number / Second_number; } break;
-                default: Console.WriteLine("此运算不存在"); result = 0.0; break;
+                default: Console.WriteLine("此运算不存在"); result = 0xffff; break;
+            }
+            return result;
+        }
+        /// <summary>
+        /// 运算结果 无结果返回空
+        /// </summary>
+        /// <returns></returns>
+        static public string Re ()
+        {
+            string result;
+            int flag = 0;
+            switch(Opreator)
+            {
+                case '+':result = Frist_st + Second_str;break;
+                case '-':
+                    for (int i = 0; i < Frist_st.Length; i++)
+                    {
+                        if (Frist_st[i] == Second_str[0])
+                            for (int j = 0; j < Second_str.Length; j++)
+                            {
+                                if (Frist_st[i + j] != Second_str[j])
+                                    break;
+                                flag++;
+                            }
+                        if (flag == Second_str.Length)
+                        {
+                            result = Frist_st.Remove(i, flag);
+                            return result;
+                        }
+                    }
+                    result = "";
+                    break;
+                default:
+                    Console.WriteLine("此运算不存在");result = ""; break;
             }
             return result;
         }
