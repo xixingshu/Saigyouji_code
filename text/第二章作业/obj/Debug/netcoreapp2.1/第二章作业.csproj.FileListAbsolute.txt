@@ -9,3 +9,14 @@ D:\Documents\Visual Studio 2017\C#\第二章作业\第二章作业\bin\Debug\net
 D:\Documents\Visual Studio 2017\C#\第二章作业\第二章作业\bin\Debug\netcoreapp2.1\第二章作业.pdb
 D:\Documents\Visual Studio 2017\C#\第二章作业\第二章作业\obj\Debug\netcoreapp2.1\第二章作业.dll
 D:\Documents\Visual Studio 2017\C#\第二章作业\第二章作业\obj\Debug\netcoreapp2.1\第二章作业.pdb
+D:\Documents\Visual Studio 2017\github\Saigyouji_code\text\第二章作业\bin\Debug\netcoreapp2.1\第二章作业.deps.json
+D:\Documents\Visual Studio 2017\github\Saigyouji_code\text\第二章作业\bin\Debug\netcoreapp2.1\第二章作业.runtimeconfig.json
+D:\Documents\Visual Studio 2017\github\Saigyouji_code\text\第二章作业\bin\Debug\netcoreapp2.1\第二章作业.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\github\Saigyouji_code\text\第二章作业\bin\Debug\netcoreapp2.1\第二章作业.dll
+D:\Documents\Visual Studio 2017\github\Saigyouji_code\text\第二章作业\bin\Debug\netcoreapp2.1\第二章作业.pdb
+D:\Documents\Visual Studio 2017\github\Saigyouji_code\text\第二章作业\obj\Debug\netcoreapp2.1\第二章作业.csprojAssemblyReference.cache
+D:\Documents\Visual Studio 2017\github\Saigyouji_code\text\第二章作业\obj\Debug\netcoreapp2.1\第二章作业.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\github\Saigyouji_code\text\第二章作业\obj\Debug\netcoreapp2.1\第二章作业.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\github\Saigyouji_code\text\第二章作业\obj\Debug\netcoreapp2.1\第二章作业.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\github\Saigyouji_code\text\第二章作业\obj\Debug\netcoreapp2.1\第二章作业.dll
+D:\Documents\Visual Studio 2017\github\Saigyouji_code\text\第二章作业\obj\Debug\netcoreapp2.1\第二章作业.pdb

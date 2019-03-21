@@ -7,7 +7,7 @@ namespace 第二章作业
         static void Main(string[] args)
         {
             #region 作业一
-            //while (true )
+            //while (true)
             //{
             //    try
             //    {
@@ -20,7 +20,7 @@ namespace 第二章作业
             //        Cal.Frist_number = Cal.Change(o);
             //        Cal.Opreator = t[0];
             //        Cal.Second_number = Cal.Change(tr);
-            //        Console.WriteLine("{0}", Cal.Result());
+            //        Console.WriteLine("结果为：{0}", Cal.Result());
             //    }
             //    catch
             //    {
