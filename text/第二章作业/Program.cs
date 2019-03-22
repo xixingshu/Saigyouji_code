@@ -7,26 +7,26 @@ namespace 第二章作业
         static void Main(string[] args)
         {
             #region 作业一
-            while (true)
-            {
-                
-                    Console.WriteLine("请输入第一个参数：");
-                    Cal.Frist_st = Console.ReadLine();
-                    Console.WriteLine("请输入运算符：");
-                    Cal.Opreator = Console.ReadLine()[0];
-                    Console.WriteLine("请输入第二个参数：");
-                    Cal.Second_str = Console.ReadLine();
-                try
-                {
-                    int.Parse(Cal.Frist_st);
-                    Console.WriteLine("结果为：{0}", Cal.Result());
-                }
-                catch
-                {
-                    Console.WriteLine("结果为：{0}", Cal.Re());
-                }
-               
-            }
+            //while (true)
+            //{
+
+            //    Console.WriteLine("请输入第一个参数：");
+            //    Cal.Frist_st = Console.ReadLine();
+            //    Console.WriteLine("请输入运算符：");
+            //    Cal.Opreator = Console.ReadLine()[0];
+            //    Console.WriteLine("请输入第二个参数：");
+            //    Cal.Second_str = Console.ReadLine();
+            //    try
+            //    {
+            //        int.Parse(Cal.Frist_st);
+            //        Console.WriteLine("结果为：{0}", Cal.Result());
+            //    }
+            //    catch
+            //    {
+            //        Console.WriteLine("结果为：{0}", Cal.Re());
+            //    }
+
+            //}
 
             #endregion
             #region 作业二
@@ -34,11 +34,28 @@ namespace 第二章作业
             //Str2Num.Str2num();
             #endregion
             #region 作业三
+            while (true)
+            {
+                Car ca1 = new Car();
+                ca1.Master = "Obama";
+                ca1.Color = "blcak";
+                ca1.Class = "benzi";
+                ca1.Id = Console.ReadLine();
+                if (ca1.TOF() == true)
+                {
+                    Console.WriteLine("车牌号为{0},{1}颜色的{2}是{3}的车", ca1.Id, ca1.Color, ca1.Class, ca1.Master);
+                }
+                else
+                {
+                    Console.WriteLine("驾驶无牌汽车");
+                }
+            }
             #endregion
             Console.ReadKey();
         }
 
     }
+    #region 作业一
     /// <summary>
     /// 作业一 calculate
     /// </summary>
@@ -151,6 +168,8 @@ namespace 第二章作业
                 return false;
         }
     }
+    #endregion
+    #region 作业二
     /// <summary>
     /// 作业二 提取字符串中的数字
     /// </summary>
@@ -176,22 +195,41 @@ namespace 第二章作业
             }
         }
     }
-   /// <summary>
-   /// 作业四 汽车类
-   /// </summary>
+    #endregion
+    #region 作业三
+    /// <summary>
+    /// 作业三 汽车类
+    /// </summary>
     public class Car
     {
         /// <summary>
         /// 车牌号
         /// </summary>
-        static public string Id { get; set; }
+         public string Id { get; set; }
         /// <summary>
         /// 车的型号
         /// </summary>
-        static public string Class { get; set; }
+         public string Class { get; set; }
         /// <summary>
         /// 车的颜色
         /// </summary>
-        static public string Color { get; set; }
+         public string Color { get; set; }
+        /// <summary>
+        /// 车主
+        /// </summary>
+        public string Master { get; set; }
+        /// <summary>
+        /// 判断车牌号真假
+        /// </summary>
+        /// <returns></returns>
+        public bool TOF()
+        {
+            if(Id[1]>='A' && Id[1]<='Z' )
+            {
+                return true;
+            }
+            return false;
+        }
     }
 }
+#endregion
