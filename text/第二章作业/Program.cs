@@ -224,10 +224,15 @@ namespace 第二章作业
         /// <returns></returns>
         public bool TOF()
         {
-            if(Id[1]>='A' && Id[1]<='Z' )
+            try
             {
-                return true;
+                if (Id[1] >= 'A' && Id[1] <= 'Z')
+                {
+                    return true;
+                }
             }
+            catch
+            { return false; }
             return false;
         }
     }
