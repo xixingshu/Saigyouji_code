@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2017\C#\第二章作业续\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\ConsoleApp5.deps.json
+D:\Documents\Visual Studio 2017\C#\第二章作业续\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\ConsoleApp5.runtimeconfig.json
+D:\Documents\Visual Studio 2017\C#\第二章作业续\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\ConsoleApp5.runtimeconfig.dev.json
+D:\Documents\Visual Studio 2017\C#\第二章作业续\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\ConsoleApp5.dll
+D:\Documents\Visual Studio 2017\C#\第二章作业续\ConsoleApp5\ConsoleApp5\bin\Debug\netcoreapp2.1\ConsoleApp5.pdb
+D:\Documents\Visual Studio 2017\C#\第二章作业续\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\ConsoleApp5.csproj.CoreCompileInputs.cache
+D:\Documents\Visual Studio 2017\C#\第二章作业续\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\ConsoleApp5.AssemblyInfoInputs.cache
+D:\Documents\Visual Studio 2017\C#\第二章作业续\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\ConsoleApp5.AssemblyInfo.cs
+D:\Documents\Visual Studio 2017\C#\第二章作业续\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\ConsoleApp5.dll
+D:\Documents\Visual Studio 2017\C#\第二章作业续\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\ConsoleApp5.pdb
+D:\Documents\Visual Studio 2017\C#\第二章作业续\ConsoleApp5\ConsoleApp5\obj\Debug\netcoreapp2.1\ConsoleApp5.csprojAssemblyReference.cache
