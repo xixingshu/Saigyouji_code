@@ -1,0 +1,10 @@
+G:\文档\教案\C#\2019春\第二章\AlarmDoorExec\AlarmDoor_1\bin\Debug\AlarmDoor_1.exe
+G:\文档\教案\C#\2019春\第二章\AlarmDoorExec\AlarmDoor_1\bin\Debug\AlarmDoor_1.pdb
+G:\文档\教案\C#\2019春\第二章\AlarmDoorExec\AlarmDoor_1\obj\x86\Debug\AlarmDoor_1.exe
+G:\文档\教案\C#\2019春\第二章\AlarmDoorExec\AlarmDoor_1\obj\x86\Debug\AlarmDoor_1.pdb
+D:\Downloads\AlarmDoorExec\AlarmDoor_1\obj\x86\Debug\AlarmDoor_1.csprojAssemblyReference.cache
+D:\Downloads\AlarmDoorExec\AlarmDoor_1\obj\x86\Debug\AlarmDoor_1.csproj.CoreCompileInputs.cache
+D:\Downloads\AlarmDoorExec\AlarmDoor_1\obj\x86\Debug\AlarmDoor_1.exe
+D:\Downloads\AlarmDoorExec\AlarmDoor_1\obj\x86\Debug\AlarmDoor_1.pdb
+D:\Downloads\AlarmDoorExec\AlarmDoor_1\bin\Debug\AlarmDoor_1.exe
+D:\Downloads\AlarmDoorExec\AlarmDoor_1\bin\Debug\AlarmDoor_1.pdb

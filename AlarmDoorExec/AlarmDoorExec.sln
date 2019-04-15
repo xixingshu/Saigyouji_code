@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlarmDoor_1", "AlarmDoor_1\AlarmDoor_1.csproj", "{6BE89C2D-B557-4D9C-964E-50CCF1C6088D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlarmDoor_2", "AlarmDoor_2\AlarmDoor_2.csproj", "{B23BBA97-1109-4E15-9EDB-8AF039D34A3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlarmDoor_3", "AlarmDoor_3\AlarmDoor_3.csproj", "{2954CC22-DC57-46CD-A79B-AE2B986B2F4D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlarmDoor_4", "AlarmDoor_4\AlarmDoor_4.csproj", "{BD2EB69D-7F58-46EE-BFCF-58D1AB8F860A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BE89C2D-B557-4D9C-964E-50CCF1C6088D}.Debug|x86.ActiveCfg = Debug|x86
+		{6BE89C2D-B557-4D9C-964E-50CCF1C6088D}.Debug|x86.Build.0 = Debug|x86
+		{6BE89C2D-B557-4D9C-964E-50CCF1C6088D}.Release|x86.ActiveCfg = Release|x86
+		{6BE89C2D-B557-4D9C-964E-50CCF1C6088D}.Release|x86.Build.0 = Release|x86
+		{B23BBA97-1109-4E15-9EDB-8AF039D34A3D}.Debug|x86.ActiveCfg = Debug|x86
+		{B23BBA97-1109-4E15-9EDB-8AF039D34A3D}.Debug|x86.Build.0 = Debug|x86
+		{B23BBA97-1109-4E15-9EDB-8AF039D34A3D}.Release|x86.ActiveCfg = Release|x86
+		{B23BBA97-1109-4E15-9EDB-8AF039D34A3D}.Release|x86.Build.0 = Release|x86
+		{2954CC22-DC57-46CD-A79B-AE2B986B2F4D}.Debug|x86.ActiveCfg = Debug|x86
+		{2954CC22-DC57-46CD-A79B-AE2B986B2F4D}.Debug|x86.Build.0 = Debug|x86
+		{2954CC22-DC57-46CD-A79B-AE2B986B2F4D}.Release|x86.ActiveCfg = Release|x86
+		{2954CC22-DC57-46CD-A79B-AE2B986B2F4D}.Release|x86.Build.0 = Release|x86
+		{BD2EB69D-7F58-46EE-BFCF-58D1AB8F860A}.Debug|x86.ActiveCfg = Debug|x86
+		{BD2EB69D-7F58-46EE-BFCF-58D1AB8F860A}.Debug|x86.Build.0 = Debug|x86
+		{BD2EB69D-7F58-46EE-BFCF-58D1AB8F860A}.Release|x86.ActiveCfg = Release|x86
+		{BD2EB69D-7F58-46EE-BFCF-58D1AB8F860A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
