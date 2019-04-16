@@ -1,0 +1,4 @@
+﻿  源.cpp
+d:\documents\visual studio 2017\c.c\project6\project6\源.cpp(77): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+d:\documents\visual studio 2017\c.c\project6\project6\源.cpp(119): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+  Project6.vcxproj -> D:\Documents\Visual Studio 2017\c.c\Project6\x64\Debug\Project6.exe
